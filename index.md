@@ -2,11 +2,11 @@
 layout: cv
 title: Wode "Nimo" Ni
 email:
-  url: mailto:woden@cs.cmu.edu
+  url: tmp2
   text: woden@aaacs.cmu.edu
 homepage:
   url: http://cs.cmu.edu/~woden
-  text: cs.cmu.edu/~woden
+  text: tmp1
 ---
 
 # Wode **NDADA**
