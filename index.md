@@ -4,9 +4,11 @@ title: Minye Shao CV
 email:
   url: mailto:im.minye.shao@gmail.com
   text: im.minye.shao@gmail.com
+location:
+  address: PRC Shanghai
 ---
 
-## Minye Shao *Curriculum Vitae*
+## Minye Shao | *Curriculum Vitae*
  China, Shanghai
 
 <!--
