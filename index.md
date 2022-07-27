@@ -4,26 +4,25 @@ title: Minye Shao CV
 email:
   url: mailto:im.minye.shao@gmail.com
   text: im.minye.shao@gmail.com
-location:
-  address: PRC Shanghai
+
 ---
 
-## Minye Shao | *Curriculum Vitae*
+<center>## Minye Shao&nbsp; &nbsp; *Curriculum Vitae*</center>
 <center>China, Shanghai</center>
 
 
 {% include cv-contact.html %}
 
-## Education
+### Education
 
-### **Carnegie Mellon University** `2018.9 -`
+#### **Newcastle University** `2019.9 -2020.11`
 
 ```
-Pittsburgh, PA
+Newcastle,TWR,UK
 ```
 
-- Ph.D. in Software Engineering
-- Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
+- M.Sc in Data Science
+- Merit 
 
 ### **Columbia University** `2016.9 - 2018.5`
 
@@ -31,7 +30,7 @@ Pittsburgh, PA
 New York, NY
 ```
 
-- B.S. in Computer Science, _Magna Cum Laude_
+- M.Sc in Data Science, _Magna Cum Laude_
 - Vision, Graphics track
 
 ### **Dickinson College** `2013.9 - 2016.5`
