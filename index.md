@@ -1,15 +1,12 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
+title: Minye Shao CV
 email:
-  url: tmp2
-  text: woden@aaacs.cmu.edu
-homepage:
-  url: http://cs.cmu.edu/~woden
-  text: tmp1
+  url: mailto:im.minye.shao@gmail.com
+  text: im.minye.shao@gmail.com
 ---
 
-# Wode **NDADA**
+# Minye Shao **Curriculum Vitae**
 
 <!--
 include contact information from the front matter
