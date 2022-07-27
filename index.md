@@ -6,8 +6,7 @@ email:
   text: im.minye.shao@gmail.com
 
 ---
-
-<center>## Minye Shao&nbsp; &nbsp; *Curriculum Vitae*</center>
+<div align='center' ><font size='70'> Minye Shao&nbsp; &nbsp; *Curriculum Vitae*</font></div>
 <center>China, Shanghai</center>
 
 
