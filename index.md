@@ -6,7 +6,8 @@ email:
   text: im.minye.shao@gmail.com
 
 ---
-<div align='center' ><font size='70'> Minye Shao&nbsp; &nbsp; *Curriculum Vitae*</font></div>
+<div align='center' ><font size='70'> Minye Shao </font></div> <div align='center' ><font size='70'><font face="sf">Curriculum Vitae</font></div>
+
 <center>China, Shanghai</center>
 
 
@@ -20,13 +21,12 @@ email:
 Newcastle,TWR,UK
 ```
 
-- M.Sc in Data Science
-- Merit 
+- M.Sc in Data Science，_pass with Merit grade_
 
-### **Columbia University** `2016.9 - 2018.5`
+### **Columbia University** `2015.9 - 2019.7`
 
 ```
-New York, NY
+TianJin, NY
 ```
 
 - M.Sc in Data Science, _Magna Cum Laude_
