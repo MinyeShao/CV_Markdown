@@ -6,7 +6,7 @@ email:
   text: im.minye.shao@gmail.com
 
 ---
-<div align='center' ><font size='70'>Minye Shao</font>&nbsp; <font size='70'>|</font> &nbsp;<font face="sf" size='70'>Curriculum Vitae</font></div>
+<div align='center' ><font size='75'>Minye Shao</font>&nbsp; <font size='75'>|</font> &nbsp;<font face="sf" size='75'>Curriculum Vitae</font></div>
 
 
 <center>Shanghai,China </center>
@@ -14,9 +14,9 @@ email:
 
 {% include cv-contact.html %}
 
-### Education
+## Education
 
-#### **Newcastle University** `2019.9 -2020.11`
+### **Newcastle University** `2019.9 -2020.11`
 
 ```
 Newcastle,TWR,UK
@@ -24,7 +24,7 @@ Newcastle,TWR,UK
 
 - M.Sc in Data Science &nbsp; _pass with Merit grade_
 
-#### **Tianjin University of Finance and Economics** `2015.9 - 2019.7`
+### **Tianjin University of Finance and Economics** `2015.9 - 2019.7`
  
 ```
 TianJin, China
@@ -32,7 +32,7 @@ TianJin, China
 
 - B.S in Economic Statistics
 
-### Research Experience
+## Research Experience
 
 ### **Microsoft Research** `2020.5 - 2020.9`
 
