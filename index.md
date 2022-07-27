@@ -9,15 +9,8 @@ location:
 ---
 
 ## Minye Shao | *Curriculum Vitae*
- China, Shanghai
+<center>China, Shanghai</center>
 
-<!--
-include contact information from the front matter
-Supported arguments:
-    - homepage: url, text
-    - phone
-    - email
--->
 
 {% include cv-contact.html %}
 
