@@ -26,8 +26,8 @@ Newcastle, TWR, UK
 - M.Sc in Data Science &nbsp; _Merit grade_
 - Personal Project and Dissertation:
 - Modules: Machine Learning with Project; Cloud Computing with Project; Data Visualization; Bayesian Data Analysis; Data Management and Exploratory Data Analysis; Data Science in the Wild; Group Project in Data Science; Statistical Foundations of Data Science; Statistical Learning for Data Science.
--  
-<br><br><br>
+- Advisor: [Dr Matthew Forshaw](https://www.ncl.ac.uk/computing/staff/profile/matthewforshaw.html)
+<br /><br /><br />
 ### **Tianjin University of Finance and Economics** `2015.9 - 2019.7`
  
 ```
