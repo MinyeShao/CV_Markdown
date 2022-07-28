@@ -17,7 +17,7 @@ email:
 
 ## Education
 
-### **Newcastle University** `2019.9 -2020.11`
+### **Newcastle University** `2019.9 - 2020.11`
 
 ```
 Newcastle,TWR,UK
@@ -36,6 +36,17 @@ TianJin, China
 - Thesis: 
 - Modules: Advanced Mathematics, Probability Theory and Mathematical Statistics, Linear Algebra, Principles of Statistics, Multivariate Statistical Analysis, System of National Accounts, Econometrics, Time Series Analysis, Financial Mathematics,
 
+## Employment History
+
+### ** Trueland Information Technology (Shanghai) Co., Ltd.** `2021.5 - present`
+```
+Shanghai,China
+```
+- Data Analyst
+- Key Responsibility: Analyze data such as user transaction line behavior and business page browsing behavior on the company's Saas platform, complete the sorting and design of business data machine learning/deep learning models based on demand scenarios,
+- Honor：Outstanding Annual Campus Recruiting Newcomer `2021.12`
+
+
 ## Research Experience
 
 ### **Newcastle University, Project and Dissertation in Data Science for Postgraduate** `2020.5 - 2020.9`
@@ -43,18 +54,9 @@ TianJin, China
 _Research Intern_<br>
 Worked with the [PROSE](https://www.microsoft.com/en-us/research/group/prose/) team (mentored by [Titus Barik](https://www.barik.net/)) on improving developer productivity in Visual Studio Code. I interviewed developers to elicit their needs for code transformation tools in editors. Inspired by the empirical data and relevant work in program synthesis, I designed **reCode**, an interaction model for rapidly performing complex code transformation using the familiar find-and-replace experience.
 
-### **Carnegie Mellon University, Research Experiences for Undergraduate** `2017.5 - 2017.8`
 
-_Research Assistant_<br>
-**Penrose** is a system that automatically visualizes mathematics using two domain-specific languages: **Substance** and **Style**. Co-advised by [Jonathan Aldrich](https://www.cs.cmu.edu/~./aldrich/), [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/), [Joshua Sunshine](http://www.cs.cmu.edu/~jssunshi/), and [Katherine Ye](https://www.cs.cmu.edu/~kqy/), I designed and implemented the Style language, and extended the Substance language to support functions and logically quantified statements.
-
-### **Columbia University, Computer Graphics and User Interfaces Lab** `2017.1 - 2017.5`
-
-_Research Assistant_<br>
-Worked with prof. Steven Feiner, on **Cyber Affordance Visualization in Augumented Reality** project. Developed a Microsoft Hololens application that visualizes the Columbia campus in AR environment.
-
-## Mentoring
-
+## Work Experience
+### **Trueland Information Technology (Shanghai,China) Co., Ltd., 
 [Hwei-Shin Harriman](https://hsharriman.github.io/) (Olin College of Engineering, independent research) `CMU, 2021 - Now` <br>
 [Helena Yang](https://heleaf.me/) (CMU, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2021` <br>
 [Max Krieger](https://a9.io/) (CMU, independent research & [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2018 - 2021` <br>
@@ -93,4 +95,4 @@ Research Experiences for Undergraduates in Software Engineering Admission Commit
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: June 2022 -->
