@@ -38,6 +38,7 @@ TianJin, China
 - B.Sc in Economic Statistics
 - Thesis: 
 - Modules: Advanced Mathematics, Probability Theory and Mathematical Statistics, Linear Algebra, Principles of Statistics, Multivariate Statistical Analysis, System of National Accounts, Econometrics, Time Series Analysis, Financial Mathematics,
+<br><br />
 
 
 
