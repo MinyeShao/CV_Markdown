@@ -5,11 +5,12 @@ email:
   url: mailto:im.minye.shao@gmail.com
   text: im.minye.shao@gmail.com
 
+
 ---
-<div align='center' ><font size='75'>Minye Shao</font>&nbsp; <font size='75'>|</font> &nbsp;<font face="sf" size='75'>Curriculum Vitae</font></div>
+<div align='center' ><font size='75'>Minye Shao</font>&nbsp; <font size='75'>|</font> &nbsp;<font face="sf" size='75'>Data Science Postgraduate</font></div>
 
 
-<center>Shanghai,China </center>
+<center><i class="fas fa-map-marker-alt"></i> Shanghai,China </center>
 
 
 {% include cv-contact.html %}
@@ -30,12 +31,12 @@ Newcastle,TWR,UK
 TianJin, China
 ```
 
-- B.S in Economic Statistics
+- B.Sc in Economic Statistics
 
 ## Research Experience
 
-### **Microsoft Research** `2020.5 - 2020.9`
-
+### **Newcastle University, Project and Dissertation in Data Science for Postgraduate ** `2020.5 - 2020.9`
+#### *Classification of skincancer images base on deeplearning method* 
 _Research Intern_<br>
 Worked with the [PROSE](https://www.microsoft.com/en-us/research/group/prose/) team (mentored by [Titus Barik](https://www.barik.net/)) on improving developer productivity in Visual Studio Code. I interviewed developers to elicit their needs for code transformation tools in editors. Inspired by the empirical data and relevant work in program synthesis, I designed **reCode**, an interaction model for rapidly performing complex code transformation using the familiar find-and-replace experience.
 
