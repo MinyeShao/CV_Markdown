@@ -25,9 +25,7 @@ Newcastle,TWR,UK
 
 - M.Sc in Data Science &nbsp; _Merit grade_
 - Personal Project and Dissertation:
-- Modules: Data Visualization；Machine Learning with Project; Cloud Computing with Project; 
-
-
+- Modules: Machine Learning with Project; Cloud Computing with Project; Data Visualization; Bayesian Data Analysis; Data Management and Exploratory Data Analysis;<br> Data Science in the Wild; Group Project in Data Science; Statistical Foundations of Data Science; Statistical Learning for Data Science. 
 ### **Tianjin University of Finance and Economics** `2015.9 - 2019.7`
  
 ```
