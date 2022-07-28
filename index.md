@@ -10,7 +10,7 @@ email:
 <div align='center' ><font size='75'>Minye Shao</font>&nbsp; <font size='75'>|</font> &nbsp;<font face="sf" size='75'>Data Science Postgraduate</font></div>
 
 
-<center><i class="fas fa-map-marker-alt fa-xs"></i>&nbsp;&nbsp;<font size='2.8'>Shanghai,China</font> </center>
+<center><i class="fas fa-map-marker-alt fa-xs"></i>&nbsp;&nbsp;<font size='2.9'>Shanghai,China</font> </center>
 
 
 {% include cv-contact.html %}
@@ -25,7 +25,7 @@ Newcastle,TWR,UK
 
 - M.Sc in Data Science &nbsp; _Merit grade_
 - Personal Project and Dissertation:
-- Modules:
+- Modules: Data Visualization；Machine Learning with Project; Cloud Computing with Project; 
 
 
 ### **Tianjin University of Finance and Economics** `2015.9 - 2019.7`
