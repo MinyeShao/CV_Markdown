@@ -17,7 +17,7 @@ email:
 
 ## Education
 
-###**Newcastle University** `2019.9 - 2020.11`
+### **Newcastle University** `2019.9 - 2020.11`
 
 ```
 Newcastle,TWR,UK
@@ -27,7 +27,7 @@ Newcastle,TWR,UK
 - Personal Project and Dissertation:
 - Modules: Machine Learning with Project; Cloud Computing with Project; Data Visualization; Bayesian Data Analysis; Data Management and Exploratory Data Analysis; Data Science in the Wild; Group Project in Data Science; Statistical Foundations of Data Science; Statistical Learning for Data Science. 
 <br>
-###**Tianjin University of Finance and Economics** `2015.9 - 2019.7`
+### **Tianjin University of Finance and Economics** `2015.9 - 2019.7`
  
 ```
 TianJin, China
