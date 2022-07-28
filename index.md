@@ -20,13 +20,13 @@ email:
 ### **Newcastle University** `2019.9 - 2020.11`
 
 ```
-Newcastle,TWR,UK
+Newcastle, TWR, UK
 ```
 
 - M.Sc in Data Science &nbsp; _Merit grade_
 - Personal Project and Dissertation:
-- Modules: Machine Learning with Project; Cloud Computing with Project; Data Visualization; Bayesian Data Analysis; Data Management and Exploratory Data Analysis; Data Science in the Wild; Group Project in Data Science; Statistical Foundations of Data Science; Statistical Learning for Data Science. 
-<br>
+- Modules: Machine Learning with Project; Cloud Computing with Project; Data Visualization; Bayesian Data Analysis; Data Management and Exploratory Data Analysis; Data Science in the Wild; Group Project in Data Science; Statistical Foundations of Data Science; Statistical Learning for Data Science. <br>
+
 ### **Tianjin University of Finance and Economics** `2015.9 - 2019.7`
  
 ```
@@ -39,9 +39,9 @@ TianJin, China
 <br>
 ## Employment History
 
-### **Trueland Information Technology (Shanghai) Co., Ltd.** `2021.5 - present`
+[### **Trueland Information Technology (Shanghai) Co., Ltd.**](https://www.marketingforce.com/) `2021.5 - present`
 ```
-Shanghai,China
+Shanghai, China
 ```
 - Data Analyst
 - Key Responsibility: Analyze data such as user transaction line behavior and business page browsing behavior on the company's Saas platform, complete the sorting and design of business data machine learning/deep learning models based on demand scenarios.
