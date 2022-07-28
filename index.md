@@ -33,6 +33,7 @@ TianJin, China
 ```
 
 - B.Sc in Economic Statistics
+- Thesis: 
 
 ## Research Experience
 
