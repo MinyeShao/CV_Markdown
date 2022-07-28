@@ -43,7 +43,7 @@ TianJin, China
 Shanghai,China
 ```
 - Data Analyst
-- Key Responsibility: Analyze data such as user transaction line behavior and business page browsing behavior on the company's Saas platform, complete the sorting and design of business data machine learning/deep learning models based on demand scenarios,
+- Key Responsibility: Analyze data such as user transaction line behavior and business page browsing behavior on the company's Saas platform, complete the sorting and design of business data machine learning/deep learning models based on demand scenarios.
 - Honor：Outstanding Annual Campus Recruiting Newcomer `2021.12`
 
 
@@ -56,7 +56,7 @@ Worked with the [PROSE](https://www.microsoft.com/en-us/research/group/prose/) t
 
 
 ## Work Experience
-### **Trueland Information Technology (Shanghai,China) Co., Ltd., 
+### **Trueland Information Technology (Shanghai) Co., Ltd., 
 [Hwei-Shin Harriman](https://hsharriman.github.io/) (Olin College of Engineering, independent research) `CMU, 2021 - Now` <br>
 [Helena Yang](https://heleaf.me/) (CMU, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2021` <br>
 [Max Krieger](https://a9.io/) (CMU, independent research & [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2018 - 2021` <br>
