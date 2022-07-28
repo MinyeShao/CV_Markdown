@@ -7,7 +7,7 @@ email:
 
 
 ---
-<div align='center' ><font size='75'>Minye Shao</font>&nbsp; <font size='75'>|</font> &nbsp;<font face="sf" size='75'>Data Science Postgraduate</font></div>
+<div align='center' ><font size='85'>Minye Shao</font>&nbsp; <font size='85'>|</font> &nbsp;<font face="sf" size='85'>Data Science Postgraduate</font></div>
 
 
 <center><i class="fas fa-map-marker-alt fa-xs"></i>&nbsp;&nbsp;<font size='2.9'>Shanghai,China</font> </center>
