@@ -39,7 +39,7 @@ TianJin, China
 <br>
 ## Employment History
 
-[### **Trueland Information Technology (Shanghai) Co., Ltd.**](https://www.marketingforce.com/) `2021.5 - present`
+### [**Trueland Information Technology (Shanghai) Co., Ltd.**](https://www.marketingforce.com/) `2021.5 - present`
 ```
 Shanghai, China
 ```
