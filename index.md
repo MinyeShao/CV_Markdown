@@ -39,14 +39,13 @@ TianJin, China
 - Thesis: 
 - Modules: Advanced Mathematics, Probability Theory and Mathematical Statistics, Linear Algebra, Principles of Statistics, Multivariate Statistical Analysis, System of National Accounts, Econometrics, Time Series Analysis, Financial Mathematics,
 <br><br />
-<br />
 ## Employment History
 
 ### [**Trueland Information Technology (Shanghai) Co., Ltd.**](https://www.marketingforce.com/) `2021.5 - present`
 ```
 Shanghai, China
 ```
-- Data Analyst
+- Data Analyst in Algorithm Group
 - Key Responsibility: Analyze data such as user transaction line behavior and business page browsing behavior on the company's Saas platform, complete the sorting and design of business data machine learning/deep learning models based on demand scenarios.
 - Honor：Outstanding Annual Campus Recruiting Newcomer `2021.12`
 
