@@ -10,7 +10,7 @@ email:
 <div align='center' ><font size='75'>Minye Shao</font>&nbsp; <font size='75'>|</font> &nbsp;<font face="sf" size='75'>Data Science Postgraduate</font></div>
 
 
-<center><i class="fas fa-map-marker-alt"></i> Shanghai,China </center>
+<center><i class="fas fa-map-marker-alt"></i><font size='20'> Shanghai,China</font> </center>
 
 
 {% include cv-contact.html %}
