@@ -35,7 +35,7 @@ TianJin, China
 
 ## Research Experience
 
-### **Newcastle University, Project and Dissertation in Data Science for Postgraduate ** `2020.5 - 2020.9`
+### **Newcastle University, Project and Dissertation in Data Science for Postgraduate** `2020.5 - 2020.9`
 #### *Classification of skincancer images base on deeplearning method* 
 _Research Intern_<br>
 Worked with the [PROSE](https://www.microsoft.com/en-us/research/group/prose/) team (mentored by [Titus Barik](https://www.barik.net/)) on improving developer productivity in Visual Studio Code. I interviewed developers to elicit their needs for code transformation tools in editors. Inspired by the empirical data and relevant work in program synthesis, I designed **reCode**, an interaction model for rapidly performing complex code transformation using the familiar find-and-replace experience.
