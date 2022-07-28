@@ -25,8 +25,9 @@ Newcastle, TWR, UK
 
 - M.Sc in Data Science &nbsp; _Merit grade_
 - Personal Project and Dissertation:
-- Modules: Machine Learning with Project; Cloud Computing with Project; Data Visualization; Bayesian Data Analysis; Data Management and Exploratory Data Analysis; Data Science in the Wild; Group Project in Data Science; Statistical Foundations of Data Science; Statistical Learning for Data Science. <br>
-
+- Modules: Machine Learning with Project; Cloud Computing with Project; Data Visualization; Bayesian Data Analysis; Data Management and Exploratory Data Analysis; Data Science in the Wild; Group Project in Data Science; Statistical Foundations of Data Science; Statistical Learning for Data Science.
+-  
+<br><br><br>
 ### **Tianjin University of Finance and Economics** `2015.9 - 2019.7`
  
 ```
@@ -36,7 +37,7 @@ TianJin, China
 - B.Sc in Economic Statistics
 - Thesis: 
 - Modules: Advanced Mathematics, Probability Theory and Mathematical Statistics, Linear Algebra, Principles of Statistics, Multivariate Statistical Analysis, System of National Accounts, Econometrics, Time Series Analysis, Financial Mathematics,
-<br>
+<br><br><br>
 ## Employment History
 
 ### [**Trueland Information Technology (Shanghai) Co., Ltd.**](https://www.marketingforce.com/) `2021.5 - present`
