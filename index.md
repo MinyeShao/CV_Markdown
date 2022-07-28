@@ -17,7 +17,7 @@ email:
 
 ## Education
 
-### **Newcastle University** `2019.9 - 2020.11`
+###**Newcastle University** `2019.9 - 2020.11`
 
 ```
 Newcastle,TWR,UK
@@ -26,7 +26,8 @@ Newcastle,TWR,UK
 - M.Sc in Data Science &nbsp; _Merit grade_
 - Personal Project and Dissertation:
 - Modules: Machine Learning with Project; Cloud Computing with Project; Data Visualization; Bayesian Data Analysis; Data Management and Exploratory Data Analysis; Data Science in the Wild; Group Project in Data Science; Statistical Foundations of Data Science; Statistical Learning for Data Science. 
-### **Tianjin University of Finance and Economics** `2015.9 - 2019.7`
+<br>
+###**Tianjin University of Finance and Economics** `2015.9 - 2019.7`
  
 ```
 TianJin, China
@@ -35,10 +36,10 @@ TianJin, China
 - B.Sc in Economic Statistics
 - Thesis: 
 - Modules: Advanced Mathematics, Probability Theory and Mathematical Statistics, Linear Algebra, Principles of Statistics, Multivariate Statistical Analysis, System of National Accounts, Econometrics, Time Series Analysis, Financial Mathematics,
-
+<br>
 ## Employment History
 
-### ** Trueland Information Technology (Shanghai) Co., Ltd.** `2021.5 - present`
+### **Trueland Information Technology (Shanghai) Co., Ltd.** `2021.5 - present`
 ```
 Shanghai,China
 ```
