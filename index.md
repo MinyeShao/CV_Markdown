@@ -69,12 +69,12 @@ Completed research independently and built a pipeline for multi-classification o
 
 
 ## Work Experience
-###   
-[Hwei-Shin Harriman](https://hsharriman.github.io/) (Olin College of Engineering, independent research) `CMU, 2021 - Now` <br>
-[Helena Yang](https://heleaf.me/) (CMU, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2021` <br>
-[Max Krieger](https://a9.io/) (CMU, independent research & [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2018 - 2021` <br>
-[Courtney Miller](https://courtney-e-miller.github.io/) (New College of Florida, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2019` <br>
-[Anael Kuperwajs Cohen](https://anaelkuperwajs.github.io/) (Macalester College, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2019` <br>
+### 1
+### 2
+### 3
+### 4
+### 5
+
 <br><br />
 
 
