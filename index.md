@@ -37,35 +37,35 @@ TianJin, China
 ```
 
 - B.Sc in Economic Statistics
-- Thesis: 
-- Modules: Advanced Mathematics, Probability Theory and Mathematical Statistics, Linear Algebra, Principles of Statistics, Multivariate Statistical Analysis, System of National Accounts, Econometrics, Time Series Analysis, Financial Mathematics,
+- <u>Thesis</u>: 
+- <u>Modules</u>: Advanced Mathematics, Probability Theory and Mathematical Statistics, Linear Algebra, Principles of Statistics, Multivariate Statistical Analysis, System of National Accounts, Econometrics, Time Series Analysis, Financial Mathematics,
 <br><br />
 
 
 
 ## Employment History
 
-### [**Trueland Information Technology (Shanghai) Co., Ltd.**](https://www.marketingforce.com/) `2021.5 - present`
+### [**Trueland Information Technology (Shanghai) Co., Ltd.**](https://www.marketingforce.com/) `2021.3 - present`
 ```
 Shanghai, China
 ```
 - Data Analyst in Algorithm Group
-- Key Responsibility: - Analyze data such as user transaction line behavior and business page browsing behavior on the company's Saas platform. Complete the sorting and design of business data machine learning/deep learning models based on demand scenarios. 
-- Honor：Outstanding Annual Campus Recruiting Newcomer `2021.12`
+- <u>Key Responsibility</u>: - Analyze data such as user transaction line behavior and business page browsing behavior on the company's Saas platform. Complete the sorting and design of business data machine learning/deep learning models based on demand scenarios. 
+- <u>Honor</u>：Outstanding Annual Campus Recruiting Newcomer `2021.12`
 <br><br />
 
 
 ## Research Experience
 
 ### **Newcastle University, Project and Dissertation in Data Science for Postgraduate** `2020.5 - 2020.9`
-- Supervisor: [Dr Yu Guan](https://www.ncl.ac.uk/computing/staff/profile/yuguan.html)
-_Research Intern_<br>
+
 Worked with the [PROSE](https://www.microsoft.com/en-us/research/group/prose/) team (mentored by [Titus Barik](https://www.barik.net/)) on improving developer productivity in Visual Studio Code. I interviewed developers to elicit their needs for code transformation tools in editors. Inspired by the empirical data and relevant work in program synthesis, I designed **reCode**, an interaction model for rapidly performing complex code transformation using the familiar find-and-replace experience.
+- Supervisor: [Dr Yu Guan](https://www.ncl.ac.uk/computing/staff/profile/yuguan.html)
 <br><br />
 
 
 ## Work Experience
-### **Trueland Information Technology (Shanghai) Co., Ltd., 
+###   
 [Hwei-Shin Harriman](https://hsharriman.github.io/) (Olin College of Engineering, independent research) `CMU, 2021 - Now` <br>
 [Helena Yang](https://heleaf.me/) (CMU, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2021` <br>
 [Max Krieger](https://a9.io/) (CMU, independent research & [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2018 - 2021` <br>
