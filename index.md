@@ -49,7 +49,9 @@ TianJin, China
 Shanghai, China
 ```
 - Data Analyst in Algorithm Group
-- Key Responsibility: Analyze data such as user transaction line behavior and business page browsing behavior on the company's Saas platform, complete the sorting and design of business data machine learning/deep learning models based on demand scenarios.
+- Key Responsibility: - Analyze data such as user transaction line behavior and business page browsing behavior on the company's Saas platform.
+                      - Complete the sorting and design of business data machine learning/deep learning models based on demand scenarios.
+                      - 
 - Honor：Outstanding Annual Campus Recruiting Newcomer `2021.12`
 
 
