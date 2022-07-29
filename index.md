@@ -1,6 +1,6 @@
 ---
-layout: cvdada
-title: Minye Shao 
+layout: cv
+title: Minye Shao's 
 email:
   url: mailto:im.minye.shao@gmail.com
   text: im.minye.shao@gmail.com
