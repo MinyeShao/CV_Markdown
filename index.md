@@ -59,10 +59,10 @@ Shanghai, China
 
 ### **Newcastle University, Project and Dissertation in Data Science for Postgraduate** `2020.5 - 2020.9`
 _"Classification of Skin Cancer Dermoscopy Images Using Deep Learning"_
-<br>
-Completed research independently and built a pipeline for multi-classification of dermoscopy skin cancer images based on deep neural network and transfer learning method to assist in the initial diagnosis of skin cancer, _i.e., Distinguish the category of images to judge benign and malignant_. In particular, I used a series of ImageNet pre-trained models(_i.e., Xception, ResNext50, VGG16, DenseNet201_) and fine-tune them with a dataset of dermoscopy images provided by [International Skin Imaging Collaboration (ISIC)](https://www.isic-archive.com/#!/topWithHeader/wideContentTop/main), 
-Worked with the [PROSE](https://www.microsoft.com/en-us/research/group/prose/) team (mentored by [Titus Barik](https://www.barik.net/)) on improving developer productivity in Visual Studio Code. I interviewed developers to elicit their needs for code transformation tools in editors. Inspired by the empirical data and relevant work in program synthesis, I designed **reCode**, an interaction model for rapidly performing complex code transformation using the familiar find-and-replace experience.
 - <u>Supervisor</u>: [Dr Yu Guan](https://www.ncl.ac.uk/computing/staff/profile/yuguan.html)
+<br>
+Completed research independently and built a pipeline for multi-classification of dermoscopy skin cancer images based on deep neural network and transfer learning method to assist in the initial diagnosis of skin cancer, _i.e., Distinguish the category of images to judge benign and malignant_. In particular, I used a series of ImageNet pre-trained models(_i.e., Xception, ResNext50, VGG16, DenseNet201_) and fine-tuned them with a dataset of dermoscopy images provided by [International Skin Imaging Collaboration (ISIC)](https://www.isic-archive.com/#!/topWithHeader/wideContentTop/main). I Built a benchmark model to compare the performance of all the different models on the validation set and analyze their structure. Moreover, I made a filter visualizating utility to visualize the filters in the model and inspect the feature extraction process. The framework I applied on this project was Tensorflow and Keras.   
+
 <br><br />
 
 
