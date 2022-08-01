@@ -50,7 +50,7 @@ TianJin, China
 Shanghai, China
 ```
 - Data Analyst in Algorithm Group
-- <u>Key Responsibility</u>: - Analyze data such as user transaction line behavior and business page browsing behavior on the company's Saas platform. Complete the sorting and design of business data machine learning/deep learning models based on demand scenarios. 
+- <u>Key Responsibility</u>: - Analyze data such as user transaction line behavior and business page browsing behavior on the company's SaaS platform. Complete the sorting and design of business data machine learning/deep learning models based on demand scenarios. 
 - <u>Honor</u>：Outstanding Annual Campus Recruiting Newcomer `2021.12`
 <br><br />
 
@@ -69,11 +69,12 @@ Completed research independently and built a pipeline for multi-classification o
 
 
 ## Work Experience
-### **Data analysis and processing in the digitized middle office**`2021.3 - 2021.10`
+### **Data Analysis and Processing in the Digitized Middle Platform**`2021.3 - 2021.10`
 <br>
 Clean and visualize the data of the company's different products, produce data dashboards; Participate in product iteration and experience improvement such as new users, recommendations, and user portraits, and promote business definition, tracking and implementation through data analysis.
 
-### **Extract the specified key sentences of the text through the NLP method of extraction question answering task**
+### **Extract the Specified Key Words/Sentences of the Text Through the NLP Method of Extractive Q&A**`2021.10 - 2021.11`
+Crawled the body content of procurement and bidding announcements from the bidding information platform. For the basic information of text in a unified format that has been given by the bidding platform, I used regular expressions to match and obtain. For files written in special formats and the extraction of complex information, I transformed this problem into a Question-Answering reading comprehension task. Finetuned the pre-trained model for the Chinese Question-Answering task by labeling answers to key questions from the text of a small number of documents as training set.
 
 ### 3
 ### 4
