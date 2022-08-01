@@ -42,20 +42,7 @@ TianJin, China
 <br><br />
 
 
-
-## Employment History
-
-### [**Trueland Information Technology (Shanghai) Co., Ltd.**](https://www.marketingforce.com/) `2021.3 - present`
-```
-Shanghai, China
-```
-- Data Analyst in Algorithm Group
-- <u>Key Responsibility</u>: - Analyze data such as user transaction line behavior and business page browsing behavior on the company's SaaS platform. Complete the sorting and design of business data machine learning/deep learning models based on demand scenarios. 
-- <u>Honor</u>：Outstanding Annual Campus Recruiting Newcomer `2021.12`
-<br><br />
-
-
-## Research Experience
+## Research Experience 
 
 ### **Newcastle University, Project and Dissertation in Data Science for Postgraduate** `2020.5 - 2020.9`
 _"Classification of Skin Cancer Dermoscopy Images Using Deep Learning"_
@@ -67,17 +54,27 @@ Completed research independently and built a pipeline for multi-classification o
 
 <br><br />
 
-
 ## Work Experience
-### **Data Analysis and Processing in the Digitized Middle Platform**`2021.3 - 2021.10`
+
+### [**Trueland Information Technology (Shanghai) Co., Ltd.**](https://www.marketingforce.com/) `2021.3 - present`
+```
+Shanghai, China
+```
+- Data Analyst in Algorithm Group
+- <u>Key Responsibility</u>: - Analyze data such as user transaction line behavior and business page browsing behavior on the company's SaaS platform. Complete the sorting and design of business data machine learning/deep learning models based on demand scenarios. 
+- <u>Honor</u>：Outstanding Annual Campus Recruiting Newcomer `2021.12`
+<br>
+
+  * **Data Analysis and Processing in the Digitized Middle Platform**`2021.3 - 2021.10`
 Cleaned and visualized the data of the company's different products, produced data dashboards; Participated in product iteration and experience improvement such as new users, recommendations, user portraits, and promoted business definition, tracking and implementation through data analysis.
 <br>
 
 ### **Extract the Specified Key Words/Sentences of the Text Through the NLP Method of Extractive Q&A**`2021.10 - 2021.12`
-Crawled the body content of procurement and bidding announcements from the bidding information platform. For the basic information of text in a unified format that has been given by the bidding platform _e.g., Announcement release time, Announcement name, Announcement area etc._, I used regular expressions to match and obtain. For files written in special formats and the extraction of complex information _e.g., Buyer contact information, Purchasing agency name, Announcement area etc._, I transformed this problem into a Question-Answering reading comprehension task. Annotated the answers to key questions in the text of a small number of documents as a training set and finetuned the pre-trained model for the Chinese Question-Answering task (_i.e., roberta-base-chinese-extractive-qa_) with this dataset. Predicted the answers in text through key questions to achieve the effect of key words/sentences extraction.
+Crawled the body content of procurement and bidding announcements from the bidding information platform. For the basic information of text in a unified format that has been given by the bidding platform _e.g., Announcement release time, Announcement name, Announcement area etc._, I used regular expressions to match and obtain. For files written in special formats and the extraction of complex information _e.g., Bidding content, Buyer contact information, Purchasing agency name etc._, I transformed this problem into a Question-Answering reading comprehension task. Annotated the answers to key questions in the text of a small number of documents as a training set and finetuned the pre-trained model for the Chinese Question-Answering task (_i.e., roberta-base-chinese-extractive-qa_) with this dataset. Predicted the answers in text through key questions to achieve the effect of key words/sentences extraction.
 <br>
 
 ### **Construction of Automatic Feature Engineering Pipeline for Customer Data Platform Project** `2021.12 - 2021.2`
+
 
 
 
@@ -89,7 +86,8 @@ Crawled the body content of procurement and bidding announcements from the biddi
 
 
 ## Skill
-- 
+- Programming/ScriptingLanguages
+- Frameworks and tools
 
 
 
