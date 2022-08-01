@@ -63,7 +63,7 @@ _"Classification of Skin Cancer Dermoscopy Images Using Deep Learning"_
 <br>
 
 
-Completed research independently and built a pipeline for multi-classification of dermoscopy skin cancer images based on deep neural network and transfer learning method to assist in the initial diagnosis of skin cancer, _i.e., Distinguish the category of images to judge benign and malignant_. In particular, I used a series of ImageNet pre-trained models(_i.e., Xception, ResNext50, VGG16, DenseNet201_) and fine-tuned them with a dataset of dermoscopy images provided by [International Skin Imaging Collaboration (ISIC)](https://www.isic-archive.com/#!/topWithHeader/wideContentTop/main). I Built a benchmark model to compare the performance of all the different models on the validation set and analyze their structure. Moreover, I made a filter visualizating utility to visualize the filters in the model and inspect the feature extraction process. The framework I applied on this project was Tensorflow and Keras.   
+Completed research independently and built a pipeline for multi-classification of dermoscopy skin cancer images based on deep neural network and transfer learning method to assist in the initial diagnosis of skin cancer, _i.e., Distinguish the category of images to judge benign and malignant_. In particular, I used a series of ImageNet pre-trained models(_i.e., Xception, ResNext50, VGG16, DenseNet201_) and fine-tuned them with a dataset of dermoscopy images provided by [International Skin Imaging Collaboration (ISIC)](https://www.isic-archive.com/#!/topWithHeader/wideContentTop/main). I built a benchmark model as a baseline to compare the performance of all the different models on the validation set and analyze their structures. Moreover, I made a filter visualizating utility to visualize the filters in the model and inspect the feature extraction process. The framework I applied on this project was Tensorflow and Keras.   
 
 <br><br />
 
@@ -71,10 +71,10 @@ Completed research independently and built a pipeline for multi-classification o
 ## Work Experience
 ### **Data analysis and processing in the digitized middle office**`2021.3 - 2021.10`
 <br>
-
 Clean and visualize the data of the company's different products, produce data dashboards; Participate in product iteration and experience improvement such as new users, recommendations, and user portraits, and promote business definition, tracking and implementation through data analysis.
 
-### ** **
+### **Extract the specified key sentences of the text through the NLP method of extraction question answering task**
+
 ### 3
 ### 4
 ### 5
