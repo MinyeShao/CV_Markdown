@@ -65,7 +65,7 @@ Shanghai, China
 - <u>Honor</u>：Outstanding Annual Campus Recruiting Newcomer `2021.12`
 <br>
 
-  * **Data Analysis and Processing in the Digitized Middle Platform**`2021.3 - 2021.10`
+- **Data Analysis and Processing in the Digitized Middle Platform**`2021.3 - 2021.10`
 Cleaned and visualized the data of the company's different products, produced data dashboards; Participated in product iteration and experience improvement such as new users, recommendations, user portraits, and promoted business definition, tracking and implementation through data analysis.
 <br>
 
