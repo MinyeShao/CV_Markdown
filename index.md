@@ -69,8 +69,12 @@ Completed research independently and built a pipeline for multi-classification o
 
 
 ## Work Experience
-### **
-### 2
+### **Data analysis and processing in the digitized middle office**`2021.3 - 2021.10`
+<br>
+
+Clean and visualize the data of the company's different products, produce data dashboards; Participate in product iteration and experience improvement such as new users, recommendations, and user portraits, and promote business definition, tracking and implementation through data analysis.
+
+### ** **
 ### 3
 ### 4
 ### 5
