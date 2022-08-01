@@ -73,10 +73,11 @@ Completed research independently and built a pipeline for multi-classification o
 <br>
 Clean and visualize the data of the company's different products, produce data dashboards; Participate in product iteration and experience improvement such as new users, recommendations, and user portraits, and promote business definition, tracking and implementation through data analysis.
 
-### **Extract the Specified Key Words/Sentences of the Text Through the NLP Method of Extractive Q&A**`2021.10 - 2021.11`
-Crawled the body content of procurement and bidding announcements from the bidding information platform. For the basic information of text in a unified format that has been given by the bidding platform, I used regular expressions to match and obtain. For files written in special formats and the extraction of complex information, I transformed this problem into a Question-Answering reading comprehension task. Finetuned the pre-trained model for the Chinese Question-Answering task by labeling answers to key questions from the text of a small number of documents as training set.
+### **Extract the Specified Key Words/Sentences of the Text Through the NLP Method of Extractive Q&A**`2021.10 - 2021.12`
+<br>
+Crawled the body content of procurement and bidding announcements from the bidding information platform. For the basic information of text in a unified format that has been given by the bidding platform, I used regular expressions to match and obtain. For files written in special formats and the extraction of complex information, I transformed this problem into a Question-Answering reading comprehension task. Annotated the answers to key questions in the text of a small number of documents as a training set and finetuned the pre-trained model for the Chinese Question-Answering task with this dataset. 
 
-### 3
+### ** ** 
 ### 4
 ### 5
 
@@ -93,4 +94,4 @@ Crawled the body content of procurement and bidding announcements from the biddi
 
 <!-- ### Footer
 
-Last updated: June 2022 -->
+Last updated: July 2022 -->
