@@ -69,7 +69,7 @@ Completed research independently and built a pipeline for multi-classification o
 
 
 ## Work Experience
-### 1
+### **
 ### 2
 ### 3
 ### 4
