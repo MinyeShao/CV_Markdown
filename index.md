@@ -64,7 +64,8 @@ Shanghai, China
 - <u>Key Responsibility</u>: - Analyze data such as user transaction line behavior and business page browsing behavior on the company's SaaS platform. Complete the sorting and design of business data machine learning/deep learning models based on demand scenarios. 
 - <u>Honor</u>：Outstanding Annual Campus Recruiting Newcomer `2021.12`
 <br>
-### Projects
+
+### **Projects**
 
 #### **Data Analysis and Processing in the Digitized Middle Platform**`2021.3 - 2021.10`
 Cleaned and visualized the data of the company's different products, produced data dashboards; Participated in product iteration and experience improvement such as new users, recommendations, user portraits, and promoted business definition, tracking and implementation through data analysis.
@@ -75,6 +76,7 @@ Crawled the body content of procurement and bidding announcements from the biddi
 <br>
 
 #### **Construction of Automatic Feature Engineering Pipeline for Customer Data Platform Project** `2021.12 - 2021.2`
+Customer Data Platform (CDP) is a marketing technology that aggregates customer data from multiple, multi-data sources, and then shares this data with other applications. 
 
 
 
