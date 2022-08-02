@@ -62,7 +62,7 @@ Completed research independently and built a pipeline for multi-classification o
 
 ## Work Experience
 
-### [**Trueland Information Technology (Shanghai) Co., Ltd.**](https://www.marketingforce.com/) `2021.3 - present`
+### [**Trueland Information Technology (Shanghai) Co., Ltd.**](https://www.marketingforce.com/) `2021.4 - present`
 ```
 Shanghai, China
 ```
@@ -73,23 +73,21 @@ Shanghai, China
 
 ### **Projects**
 
-#### **Data Analysis and Processing in the Digitized Middle Platform**`2021.3 `
+#### **Data Analysis and Processing in the Digitized Middle Platform**`2021.6 `
 Cleaned and visualized the data of the company's different products, produced data dashboards; Participated in product iteration and experience improvement such as new users, recommendations, user portraits, and promoted business definition, tracking and implementation through data analysis.
 <br>
 
-#### **Extract the Specified Key Words/Sentences of the Text Through the NLP Method of Extractive Q&A**`2021.10 `
+#### **Extract the Specified Key Words/Sentences of the Text Through the NLP Method of Extractive Q&A**`2021.11 `
 Crawled the body content of procurement and bidding announcements from the bidding information platform. For the basic information of text in a unified format that has been given by the bidding platform _e.g., Announcement release time, Announcement name, Announcement area etc._, I used regular expressions to match and obtain. For files written in special formats and the extraction of complex information _e.g., Bidding content, Buyer contact information, Purchasing agency name etc._, I transformed this problem into a Question-Answering reading comprehension task. Annotated the answers to key questions in the text of a small number of documents as a training set and finetuned the pre-trained model for the Chinese Question-Answering task (_i.e., roberta-base-chinese-extractive-qa_) with this dataset. Predicted the answers in text through key questions to achieve the effect of key words/sentences extraction.
 <br>
 
-#### **Automatic Feature Engineering Pipeline for Customer Data Platform Project** `2021.12 `
-Customer Data Platform (CDP) is a marketing technology that aggregates customer data from multiple, multi-data sources, and then shares this data with other applications. Automatic feature engineering pipeline is used to generate and transform the original data for preprocessing and pass it to the automatic machine learning module in CDP. Specifically, this pipeline convert raw tabular data into a format ready for the machine learning model to read and attempt to enhance some new features/columns to provide more information to the machine learning model and hopefully more accurate results. The pipline is composed of multiple feature generators，each feature generator has different processing functions. In addition to the basic data preprocessing feature generator _e.g., drop duplicates, fillna etc._, some feature generators perform special processing for particular data types _e.g., datetime, categoary, text etc._.
+#### **Automatic Feature Engineering Pipeline for Customer Data Platform Project** `2022.1 `
+Customer Data Platform (CDP) is a marketing technology that aggregates customer data from multiple, multi-data sources, and then shares this data with other applications. Automatic feature engineering pipeline is used to generate and transform the original data for preprocessing and pass it to the automatic machine learning module in CDP. Specifically, this pipeline convert raw tabular data into a format ready for the machine learning model to read and attempt to enhance some new features/columns to provide more information to the machine learning model and hopefully more accurate results. The pipline is composed of multiple feature generators，each feature generator has different processing functions.
+
+#### ** **
 
 
 
-
-
-#### 4
-#### 4
 <br><br />
 
 
