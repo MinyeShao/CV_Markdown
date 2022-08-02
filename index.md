@@ -1,15 +1,15 @@
 ---
 layout: cv
 title: Minye Shao's 
-
-github:
-  url: https://github.com/MinyeShao
-  text: github.com/MinyeShao
+address:
+  Shanghai,China
 email:
   url: mailto:im.minye.shao@gmail.com
   text: im.minye.shao@gmail.com
-address:
-  Shanghai,China
+github:
+  url: https://github.com/MinyeShao
+  text: github.com/MinyeShao
+
 
 
 ---
