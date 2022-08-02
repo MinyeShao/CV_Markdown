@@ -7,7 +7,8 @@ email:
 github:
   url: https://github.com/MinyeShao
   text: github.com/MinyeShao
-phone:110
+phone:
+   110
 
 ---
 <br>
