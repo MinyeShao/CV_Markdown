@@ -8,8 +8,7 @@ github:
 email:
   url: mailto:im.minye.shao@gmail.com
   text: im.minye.shao@gmail.com
-address:
-Shanghai,China
+
 
 
 
