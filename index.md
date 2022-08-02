@@ -17,7 +17,7 @@ github:
 <div align='center' ><font size='85'>Minye Shao</font>&nbsp; <font size='85'>|</font> &nbsp;<font face="sf" size='85'>Data Science Postgraduate</font></div>
 
 <br />
-<center><i class="fas fa-map-marker-alt fa-xs"></i>&nbsp;&nbsp;<font size='2.9'>Shanghai,China</font> </center>
+
 
 
 {% include cv-contact.html %}
