@@ -1,6 +1,7 @@
 ---
 layout: cv
 title: Minye Shao's 
+address:Shanghai,China
 email:
   url: mailto:im.minye.shao@gmail.com
   text: im.minye.shao@gmail.com
