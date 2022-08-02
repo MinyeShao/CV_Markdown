@@ -21,6 +21,8 @@ github:
 
 
 {% include cv-contact.html %}
+## Personal Profile
+
 
 ## Education
 
@@ -93,8 +95,8 @@ Customer Data Platform (CDP) is a marketing technology that aggregates customer 
 
 
 ## Skills
-- Programming/ScriptingLanguages:Python ,SQL,
-- Frameworks and tools
+Programming/ScriptingLanguages:Python,Sql,R
+Frameworks/Environment:Pytorch,OpenCV,Keras,NLTK,SpaCy,Linux
 
 
 
