@@ -4,7 +4,9 @@ title: Minye Shao's
 email:
   url: mailto:im.minye.shao@gmail.com
   text: im.minye.shao@gmail.com
-
+github:
+  url: https://github.com/MinyeShao
+  text: github.com/MinyeShao
 
 ---
 <br>
