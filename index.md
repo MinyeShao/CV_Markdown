@@ -22,6 +22,7 @@ github:
 
 {% include cv-contact.html %}
 ## Personal Profile
+2020 Newcastle University Graduated Masters in Data Science
 
 
 ## Education
@@ -90,7 +91,7 @@ Through the model, text can be classified as positive, negative and neutral.
 Customer Data Platform (CDP) is a marketing technology that aggregates customer data from multiple, multi-data sources, and then shares this data with other applications. In the CDP project, I was in charge of developing Automatic feature engineering pipeline which is used to generate and transform the original data for preprocessing and pass it to the automatic machine learning module in CDP. Specifically, this pipeline convert raw tabular data into a format ready for the machine learning model to read and attempt to enhance some new features/columns to provide more information to the machine learning model and hopefully more accurate results. The pipline is composed of multiple feature generators，each feature generator has different processing functions.
 
 <br>
-#### **Extract the Specified Key Words/Sentences of the Text Through the NLP Method of Extractive Q&A**`2021.12 `
+#### **Extract the Specified Key Words/Sentences of the Text Through the NLP Method of Extractive Q&A**`2022.5 `
 Crawled the body content of procurement and bidding announcements from the bidding information platform. For the basic information of text in a unified format that has been given by the bidding platform _e.g., Announcement release time, Announcement name, Announcement area etc._, I used regular expressions to match and obtain. For files written in special formats and the extraction of complex information _e.g., Bidding content, Buyer contact information, Purchasing agency name etc._, I transformed this problem into a Question-Answering reading comprehension task. Annotated the answers to key questions in the text of a small number of documents as a training set and finetuned the pre-trained model for the Chinese Question-Answering task (_i.e., roberta-base-chinese-extractive-qa_) with this dataset. Predicted the answers in text through key questions to achieve the effect of key words/sentences extraction.
 
 
