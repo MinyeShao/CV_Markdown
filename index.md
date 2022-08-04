@@ -22,7 +22,7 @@ github:
 
 {% include cv-contact.html %}
 ## Personal Profile
-Newcastle University postgraduate students graduating in 2020 interested in A-direction research
+2020 postgraduate student interested in 
 
 
 ## Education
@@ -72,11 +72,11 @@ Shanghai, China
 - Data Analyst in Algorithm Group
 - <u>Key Responsibility</u>: - Analyze data such as user transaction line behavior and business page browsing behavior on the company's SaaS platform. Complete the sorting and design of business data machine learning/deep learning models based on demand scenarios. 
 - <u>Honor</u>：Outstanding Annual Campus Recruiting Newcomer `2021.12`
-<br>
 
+<br>
 ### **Projects**
 
-<br>
+
 #### **Data Analysis and Processing in the Digitized Middle Platform**`2021.6 `
 Cleaned and visualized the data of the company's different products, produced data dashboards; Participated in product iteration and experience improvement such as new users, recommendations, user portraits, and promoted business definition, tracking and implementation through data analysis.
 
