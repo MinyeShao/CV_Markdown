@@ -25,10 +25,6 @@ github:
 Postgraduate student graduated in 2020 who is interested in Computer Vision and Natural Language Processing
 
 
-<br>
-## Skills
-Programming/ScriptingLanguages:Python,Sql,R
-Frameworks/Environment:Pytorch,OpenCV,Keras,NLTK,SpaCy,Linux
 
 <br>
 ## Education
@@ -100,6 +96,11 @@ Customer Data Platform (CDP) is a marketing technology that aggregates customer 
 
 #### **Extract the Specified Key Words/Sentences of the Text Through the NLP Method of Extractive Q&A** `2022.5 `
 Crawled the body content of procurement and bidding announcements from the bidding information platform. For the basic information of text in a unified format that has been given by the bidding platform _e.g., Announcement release time, Announcement name, Announcement area etc._, I used regular expressions to match and obtain. For files written in special formats and the extraction of complex information _e.g., Bidding content, Buyer contact information, Purchasing agency name etc._, I transformed this problem into a Question-Answering reading comprehension task. Annotated the answers to key questions in the text of a small number of documents as a training set and finetuned the pre-trained model for the Chinese Question-Answering task (_i.e., roberta-base-chinese-extractive-qa_) with this dataset. Predicted the answers in text through key questions to achieve the effect of key words/sentences extraction.
+
+<br>
+## Skills
+Programming/ScriptingLanguages:Python,Sql,R
+Frameworks/Environment:Pytorch,OpenCV,Keras,NLTK,SpaCy,Linux
 
 
 
