@@ -22,9 +22,15 @@ github:
 
 {% include cv-contact.html %}
 ## Personal Profile
-2020 postgraduate student interested in 
+Postgraduate student graduated in 2020 who is interested in Computer Vision and Natural Language Processing
 
 
+<br>
+## Skills
+Programming/ScriptingLanguages:Python,Sql,R
+Frameworks/Environment:Pytorch,OpenCV,Keras,NLTK,SpaCy,Linux
+
+<br>
 ## Education
 
 ### **Newcastle University** `2019.9 - 2020.11`
@@ -99,18 +105,6 @@ Crawled the body content of procurement and bidding announcements from the biddi
 
 
 
-
-
-
-
-
-<br><br />
-
-
-
-## Skills
-Programming/ScriptingLanguages:Python,Sql,R
-Frameworks/Environment:Pytorch,OpenCV,Keras,NLTK,SpaCy,Linux
 
 
 
