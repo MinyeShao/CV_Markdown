@@ -22,7 +22,7 @@ github:
 
 {% include cv-contact.html %}
 ## Personal Profile
-2020 Newcastle University Graduated Masters in Data Science
+Newcastle University postgraduate students graduating in 2020 interested in A-direction research
 
 
 ## Education
