@@ -22,11 +22,12 @@ github:
 
 {% include cv-contact.html %}
 ## Summary
+
 - 2020 class postgraduate student of Newcastle University majoring in Data Science. 
 - Project and dissertation for postgraduate on topics related to image classification.
 - Interested in Computer Vision and Natural Language Processing, particularly in relation to XXXX 
-- Has worked in an Internet information company for more than one year so far after graduation.
-- With several NLP/ML related work projects work experience.
+- Currently employed, with more than one-year work experience so far after graduation.
+- Several NLP/ML-related work project experiences.
 
 
 
