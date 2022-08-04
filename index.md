@@ -22,8 +22,11 @@ github:
 
 {% include cv-contact.html %}
 ## Summary
-
-2020 graduated postgraduate student who is interested in Computer Vision and Natural Language Processing, particularly in relation to XXXX and has worked in Internet information companies for more than one year so far.
+- 2020 class postgraduate student of Newcastle University majoring in Data Science. 
+- Project and dissertation for postgraduate on topics related to image classification.
+- Interested in Computer Vision and Natural Language Processing, particularly in relation to XXXX 
+- Has worked in an Internet information company for more than one year so far after graduation.
+- With several NLP/ML related work projects work experience.
 
 
 
@@ -101,7 +104,8 @@ The data sourced from the content of procurement and bidding announcements crawl
 <br>
 ## Skills
 Programming/ScriptingLanguages:Python,Sql,R
-Frameworks/Environment:Pytorch,OpenCV,Keras,NLTK,SpaCy,Linux
+<br>
+Technologies/Environment:Pytorch,OpenCV,Keras,NLTK,SpaCy,Linux
 
 
 
