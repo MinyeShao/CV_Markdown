@@ -24,7 +24,7 @@ github:
 ## Summary
 
 - 2020 class postgraduate student of Newcastle University majoring in Data Science. 
-- Project and dissertation for postgraduate on topics related to image classification.
+- Postgraduate project and dissertation topic is Image Classification related.
 - Interested in Computer Vision and Natural Language Processing, particularly in relation to XXXX 
 - Currently employed, with more than one-year work experience so far after graduation.
 - Several NLP/ML-related work project experiences.
@@ -108,6 +108,7 @@ Programming/ScriptingLanguages:Python,Sql,R
 <br>
 Technologies/Environment:Pytorch,OpenCV,Keras,NLTK,SpaCy,Linux
 
+https://blog.csdn.net/lijianyi0219/article/details/109130421
 
 
 
