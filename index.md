@@ -54,7 +54,7 @@ TianJin, China
 
 - B.Sc in Economic Statistics
 - <u>Thesis</u>: "Analysis on the Effect of National Monetary Policy to Regulate Real Estate Prices".
-- <u>Key Modules</u>: Advanced Mathematics, Probability Theory and Mathematical Statistics, Linear Algebra, Principles of Statistics, Multivariate Statistical Analysis, System of National Accounts, Econometrics, Time Series Analysis, Financial Mathematics,
+- <u>Key Modules</u>: Advanced Mathematics, Introduction to Statistics, Probability Theory and Mathematical Statistics, Linear Algebra, Principles of Statistics, Multivariate Statistical Analysis, System of National Accounts, Econometrics, Macroeconomics, Microeconomics, Time Series Analysis, Financial Mathematics, Actuarial life insurance.
 <br><br />
 
 
