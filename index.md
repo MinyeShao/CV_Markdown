@@ -25,7 +25,7 @@ github:
 
 - 2020 class postgraduate student of Newcastle University majoring in Data Science. 
 - Postgraduate project and dissertation topic is Image Classification related.
-- Interested in Computer Vision and Natural Language Processing, particularly in relation to XXXX 
+- Interested in research on the direction of Deep Learning, particularly in relation to Self-Supervised/Contrastive Unsupervised Meta-Learning for Few-Shot/Zero-shot Computer Vision/Natural Language Processing Tasks. 
 - Currently employed, with more than one-year work experience so far after graduation.
 - Several NLP/ML-related work project experiences.
 
@@ -104,11 +104,11 @@ The data sourced from the content of procurement and bidding announcements crawl
 
 <br>
 ## Skills
-Programming/ScriptingLanguages:Python,Sql,R
-<br>
-Technologies/Environment:Pytorch,OpenCV,Keras,NLTK,SpaCy,Linux
+- Master Python/R/SQL programming/Scripting language. 
+- Familiar with Linux commands and Linux environment.
+- Familiar with the Pytorch framework and tools such as Pandas, Numpy, SciPy, OpenCV, Fastai, Keras, NLTK, SpaCy etc.
 
-https://blog.csdn.net/lijianyi0219/article/details/109130421
+
 
 
 
