@@ -25,8 +25,8 @@ github:
 
 - 2020 class postgraduate student of Newcastle University majoring in Data Science. 
 - Postgraduate project and dissertation topic is Image Classification related.
-- Interested in research on the direction of Deep Learning, particularly in relation to Self-Supervised/Contrastive Unsupervised Meta-Learning for Few-Shot/Zero-shot Computer Vision/Natural Language Processing Tasks. 
-- Currently employed, with more than one-year work experience so far after graduation.
+- Interested in doing research in the direction of Deep Learning, particularly in relation to Self-Supervised/Contrastive Unsupervised Meta-Learning for Few-Shot/Zero-shot Computer Vision/Natural Language Processing Tasks. 
+- Currently employed, with more than one year of work experience so far after graduation.
 - Several NLP/ML-related work project experiences.
 
 
