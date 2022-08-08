@@ -14,7 +14,8 @@ github:
 
 ---
 <br>
-<div align='center' ><font size='85'>Minye Shao</font>&nbsp;<font size='85'>|</font> &nbsp;<font face="sf" size='85'>Data Science Postgraduate</font</div>
+
+<div align='center' ><font size='85'>Minye Shao</font>&nbsp; <font size='85'>|</font> &nbsp;<font face="sf" size='85'>Data Science Postgraduate</font></div>
 
 
 <br />
